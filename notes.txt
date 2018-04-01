@@ -1,0 +1,7 @@
+
+
+后台配置：通信域名地址； js-sdk
+
+
+package: 
+  koa; bluebird; request; xml -> ejs; lodash; heredoc; raw-body; sha1; xml2js
